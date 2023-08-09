@@ -4,15 +4,15 @@ Skiff hosted content, including whitepaper.
 
 ## Windows desktop
 
-Skiff's Windows desktop application, currenly in beta, offers a seamless and secure experience for Windows users.
+Skiff's Windows desktop application, currenly in beta, offers a seamless and secure experience for Windows users. Visit the [Windows](/windows) directory for more.
 
 ## Mac desktop
 
-Skiff's Mac desktop enables a seamless and powerful experience directly from your macOS device.
+Skiff's Mac desktop enables a seamless and powerful experience directly from your macOS device. Visit the [macOS directory](/macos) for more.
 
 ## Whitepaper
 
-Skiff's whitepaper covers our security model, how your data is end-to-end encrypted, and how each product works.
+Skiff's whitepaper covers our security model, how your data is end-to-end encrypted, and how each product works. Visit the [whitepaper](/whitepaper) directory to read further.
 
 ## Questions or support
 
