@@ -18,5 +18,4 @@ Skiff's whitepaper covers our security model, how your data is end-to-end encryp
 
 [Contact Us](mailto:support@skiff.org), or join our [Discord](https://discord.com/invite/skiff), [Reddit](https://www.reddit.com/r/skiff), and [Twitter](https://twitter.com/skiffprivacy) communities.
 
-You may also want to check out our [feature request board]([url](https://skiff.canny.io/feature-requests)https://skiff.canny.io/feature-requests) to discuss potential upcoming features.
-
+You may also want to check out our [feature request board](https://skiff.canny.io/feature-requests) to discuss potential upcoming features.
