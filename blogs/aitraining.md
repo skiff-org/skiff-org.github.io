@@ -9,7 +9,7 @@
 
 -   **Facebook**: Facebook has an established history of using public data - including photos on Instagram and videos on Facebook - to train AI models. Read more in [CNBC](https://www.cnbc.com/2021/03/04/facebook-trains-ai-to-see-using-1-billion-public-instagram-photos-.html) or [The Verge](https://www.theverge.com/2021/3/12/22326975/facebook-training-ai-public-videos-digital-memories).
 
--  **Apple**: Apple has generally towed a line between training ML models and indiscriminately harnessing user data. Recently, Spotify stopped allowing Apple to train on podcast data (read more in [WIRED](https://www.wired.com/story/apple-spotify-audiobook-narrators-ai-contract/)).
+-  **Apple**: Apple has generally toed a line between training ML models and indiscriminately harnessing user data. Recently, Spotify stopped allowing Apple to train on podcast data (read more in [WIRED](https://www.wired.com/story/apple-spotify-audiobook-narrators-ai-contract/)).
 
 -   **Getty Images**: Although Getty Images does not train AI models of their own (that we know of), they filed a lawsuit against Stability AI alleging that over 10 million photos were illegally used in AI training. Read more in [The Verge](https://www.theverge.com/2023/2/6/23587393/ai-art-copyright-lawsuit-getty-images-stable-diffusion).
 
