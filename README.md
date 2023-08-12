@@ -1,6 +1,8 @@
 # Skiff hosted content, desktop apps, APKs, and more
 
-Skiff hosted content, including whitepaper.
+This repository stores Skiff's hosted content, including whitepaper.
+
+[Skiff](https://skiff.com) is a privacy-first, end-to-end encrypted workspace with Mail, Calendar, Pages, and Drive products. To visit our repository for open-source products, click [this link](https://github.com/skiff-org/skiff-apps/).
 
 ## Windows desktop
 
