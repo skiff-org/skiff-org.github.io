@@ -10,7 +10,7 @@ Skiff's Windows desktop application, currenly in beta, offers a seamless and sec
 
 ## Mac desktop
 
-Skiff's Mac desktop enables a seamless and powerful experience directly from your macOS device. Visit the [macOS directory](/macos) for more.
+Skiff's Mac desktop enables a seamless and powerful experience directly from your macOS device. Download the app [here](https://apps.apple.com/us/app/skiff-desktop/id1615488683).
 
 ## Whitepaper
 
