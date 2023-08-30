@@ -4,6 +4,8 @@ This repository stores Skiff's hosted content, including whitepaper.
 
 [Skiff](https://skiff.com) is a privacy-first, end-to-end encrypted workspace with Mail, Calendar, Pages, and Drive products. To visit our repository for open-source products, click [this link](https://github.com/skiff-org/skiff-apps/).
 
+![Skiff Desktop](assets/desktopbanner.png)
+
 ## Windows desktop
 
 Skiff's Windows desktop application, currenly in beta, offers a seamless and secure experience for Windows users. Visit the [Windows](/windows) directory for more.
