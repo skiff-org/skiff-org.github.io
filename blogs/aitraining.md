@@ -3,6 +3,8 @@
 
 ## Current list
 
+-   **X/Twitter**: As recently as September 2023, X confirmed that it would use "public data" to train machine learning [models](https://techcrunch.com/2023/09/01/xs-privacy-policy-confirms-it-will-use-public-data-to-train-ai-models/). X's CEO Elon Musk noted that the company would not use "DMs or anything private." 
+
 -   **Zoom**: In March 2023, Zoom updated its terms of service to allow the company to use user data to train AI models. The update has sparked intense media coverage and controversy, as it gave Zoom broad control over user data without clear consent requirements. Zoom later backtracked on the update, saying that it would not use user data to train AI models without consent. Read more in [The Washington](https://www.washingtonpost.com/politics/2023/08/08/zooms-privacy-tweaks-stoke-fears-that-its-calls-will-be-used-train-ai/) [Post](https://www.washingtonpost.com/politics/2023/08/08/zooms-privacy-tweaks-stoke-fears-that-its-calls-will-be-used-train-ai/).
 
 -   **Google**: In January 2023, Google updated its privacy policy to state that it may use user data to train AI models. The update was met with criticism from privacy advocates, who argued that Google was not being transparent about its data collection practices. Google has since clarified that it will only use user data to train AI models that are necessary for its core products and services. Read more in [9to5Google](https://9to5google.com/2023/07/03/google-privacy-policy-ai-training-data/).
